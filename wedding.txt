@@ -1,0 +1,6 @@
+Bride's name: Emily
+Groom's name: Peter
+Guest total: 157
+Square footage of wedding venue: 2349.625
+DJ's song list: [Scorpion, Take Care, Her Loss]
+Guests per square foot: 14
